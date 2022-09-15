@@ -1,0 +1,4 @@
+rhino3dm == 7.15.0
+networkx == 2.8
+flask == 2.1.1
+ghhops_server == 1.5.2
